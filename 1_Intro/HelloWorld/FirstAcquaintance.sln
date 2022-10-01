@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{219DEAA7-A2E7-4E5C-B7EA-B5F51D8BA8C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{219DEAA7-A2E7-4E5C-B7EA-B5F51D8BA8C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStep", "FirstStep\FirstStep.csproj", "{705BDF76-9F6C-4254-81D1-7610B1E865FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstStep", "FirstStep\FirstStep.csproj", "{705BDF76-9F6C-4254-81D1-7610B1E865FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversionErrors", "TypeConversionErrors\TypeConversionErrors.csproj", "{CB6B7C8B-1827-458E-B1A2-08467BEE01AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversionErrors", "TypeConversionErrors\TypeConversionErrors.csproj", "{CB6B7C8B-1827-458E-B1A2-08467BEE01AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertAStringToANumber", "ConvertAStringToANumber\ConvertAStringToANumber.csproj", "{52541087-825F-4BCD-919B-322F0BE0A68D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertAStringToANumber", "ConvertAStringToANumber\ConvertAStringToANumber.csproj", "{52541087-825F-4BCD-919B-322F0BE0A68D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{B09083CD-0D61-4130-AFE3-EB644FBE693D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{B09083CD-0D61-4130-AFE3-EB644FBE693D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42TheMainQuestionOfTheUniverse", "42TheMainQuestionOfTheUniverse\42TheMainQuestionOfTheUniverse.csproj", "{B0A53C33-BF04-47A7-8E8D-E131D87E2700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsAreWanted!", "MethodsAreWanted!\MethodsAreWanted!.csproj", "{AED51ECE-8590-4BBE-9790-52E86EADDC97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{B09083CD-0D61-4130-AFE3-EB644FBE693D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B09083CD-0D61-4130-AFE3-EB644FBE693D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B09083CD-0D61-4130-AFE3-EB644FBE693D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A53C33-BF04-47A7-8E8D-E131D87E2700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A53C33-BF04-47A7-8E8D-E131D87E2700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A53C33-BF04-47A7-8E8D-E131D87E2700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A53C33-BF04-47A7-8E8D-E131D87E2700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED51ECE-8590-4BBE-9790-52E86EADDC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED51ECE-8590-4BBE-9790-52E86EADDC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED51ECE-8590-4BBE-9790-52E86EADDC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED51ECE-8590-4BBE-9790-52E86EADDC97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
