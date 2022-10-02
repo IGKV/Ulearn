@@ -1,0 +1,7 @@
+﻿namespace Tasks
+{
+    class Program
+    {
+
+    }
+}

@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertAStringToANumber", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{B09083CD-0D61-4130-AFE3-EB644FBE693D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42TheMainQuestionOfTheUniverse", "42TheMainQuestionOfTheUniverse\42TheMainQuestionOfTheUniverse.csproj", "{B0A53C33-BF04-47A7-8E8D-E131D87E2700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42TheMainQuestionOfTheUniverse", "42TheMainQuestionOfTheUniverse\42TheMainQuestionOfTheUniverse.csproj", "{B0A53C33-BF04-47A7-8E8D-E131D87E2700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsAreWanted!", "MethodsAreWanted!\MethodsAreWanted!.csproj", "{AED51ECE-8590-4BBE-9790-52E86EADDC97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsAreWanted!", "MethodsAreWanted!\MethodsAreWanted!.csproj", "{AED51ECE-8590-4BBE-9790-52E86EADDC97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreasOfVisibility", "AreasOfVisibility\AreasOfVisibility.csproj", "{4FA10E36-0738-468E-8825-F961298FAC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksForTheSeminar", "TasksForTheSeminar\TasksForTheSeminar.csproj", "{520CE811-66DD-40CE-B03C-51D48201B3C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{AED51ECE-8590-4BBE-9790-52E86EADDC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED51ECE-8590-4BBE-9790-52E86EADDC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED51ECE-8590-4BBE-9790-52E86EADDC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA10E36-0738-468E-8825-F961298FAC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA10E36-0738-468E-8825-F961298FAC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA10E36-0738-468E-8825-F961298FAC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA10E36-0738-468E-8825-F961298FAC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520CE811-66DD-40CE-B03C-51D48201B3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520CE811-66DD-40CE-B03C-51D48201B3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520CE811-66DD-40CE-B03C-51D48201B3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520CE811-66DD-40CE-B03C-51D48201B3C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
